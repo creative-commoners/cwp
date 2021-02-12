@@ -1,4 +1,4 @@
-BSD 3-Clause License
+BSD 3-Clause License.
 
 Copyright (c) 2006-2018, SilverStripe Limited - www.silverstripe.com
 All rights reserved.
